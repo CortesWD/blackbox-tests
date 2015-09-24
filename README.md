@@ -1,4 +1,6 @@
-#Linguo (Pruebas de Caja Negra)
+# Linguo (Pruebas de Caja Negra)
+
+![Linguo brm](http://abraham.brm.com.co/fabricaDeCajas/images/iconos/linguo.png "Linguo brm")
 
 Esta herramienta escrita en Javascript, automatiza pruebas de validación de formularios. lo que hace es recorrer los formularios y hacer screenshots de la validación de cada campo.
 
